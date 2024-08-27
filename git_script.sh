@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# Testing Forks
+
 if [ $# -eq 0 ]; then
     echo "No commit message provided. Aborting!"
     exit 1
